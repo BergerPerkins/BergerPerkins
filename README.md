@@ -4,7 +4,6 @@
 **BergerPerkins/BergerPerkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-BergerPerkins/README.md
 
 Hi I'm Berger Perkins J 👋
 
