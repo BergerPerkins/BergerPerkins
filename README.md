@@ -1,8 +1,8 @@
-[![MasterHead](https://www.bing.com/images/search?view=detailV2&ccid=MikvUxUM&id=08A47BFA4E62D6FAA257F4AC200D223F5F2D91C1&thid=OIP.MikvUxUM1xP85rwXP93iYAHaEK&mediaurl=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F3959374.jpg&exph=1080&expw=1920&q=hd+datascience+photo&simid=608000200834115130&form=IRPRST&ck=64CFB47D327E15EB3C4A7F4077114B9B&selectedindex=2&ajaxhist=0&ajaxserp=0&vt=0&sim=11)]
+[![MasterHead](https://dei.fe.up.pt/mdse/wp-content/uploads/sites/27/2020/04/Asset-2.jpg)]
 
 <h1 align="center">Hi 👋, I'm Berger Perkins</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=3Eqdiz9v&id=324B1AC3D45D0BCA52681FFDABEB233F524B49AD&thid=OIP.3Eqdiz9v3r4TNAnl8PYhugHaFD&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.dc4a9d8b3f6fdebe133409e5f0f621ba%3frik%3drUlLUj8j66v9Hw%26riu%3dhttp%253a%252f%252fprocurementpeoplecloud.co.uk%252fwp-content%252fuploads%252f2018%252f04%252fPCD-02-04-18.jpg%26ehk%3dffgR5ZpnMjvBMoQS3OTivolUNz3884aOtS1RTn%252fQ2Y4%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=1093&expw=1600&q=data+scientist+working+image&simid=608015478085139260&FORM=IRPRST&ck=B3ADE140B495C58AC1F9496A47040F63&selectedIndex=1">
+<img align="right" alt="coding" width="400" src="https://mbeddedmaximum.com/wp-content/uploads/4065/data-scientist-41-678x381.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bergerperkins&label=Profile%20views&color=0e75b6&style=flat" alt="bergerperkins" /> </p>
 
