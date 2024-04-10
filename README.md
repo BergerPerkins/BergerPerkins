@@ -1,7 +1,7 @@
 [![MasterHead](https://dei.fe.up.pt/mdse/wp-content/uploads/sites/27/2020/04/Asset-2.jpg)]
 
 <h1 align="center">Hi 👋, I'm Berger Perkins</h1>
-<h3 align="center">A passionate Artificial Intelligence Engineer from India 🇮🇳</h3>
+<h3 align="center">A passionate Artificial Intelligence Engineer from India 🇮🇳 </h3>
 <img align="right" alt="coding" width="400" src="https://mbeddedmaximum.com/wp-content/uploads/4065/data-scientist-41-678x381.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bergerperkins&label=Profile%20views&color=0e75b6&style=flat" alt="bergerperkins" /> </p>
