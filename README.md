@@ -1,22 +1,22 @@
 [![MasterHead](https://dei.fe.up.pt/mdse/wp-content/uploads/sites/27/2020/04/Asset-2.jpg)]
 
 <h1 align="center">Hi 👋, I'm Berger Perkins</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Artificial Intelligence Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://mbeddedmaximum.com/wp-content/uploads/4065/data-scientist-41-678x381.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bergerperkins&label=Profile%20views&color=0e75b6&style=flat" alt="bergerperkins" /> </p>
 
 <p align="left"> <a href="https://twitter.com/berger_perkins" target="blank"><img src="https://img.shields.io/twitter/follow/berger_perkins?logo=twitter&style=for-the-badge" alt="berger_perkins" /></a> </p>
 
-- 🔭 Just completed a project on **Reducing Downtime of Makino and Ams (cnc) machines, Machine learning Project.**
+- 🔭 Just completed projects on **Reducing Downtime of Makino and Ams (cnc) machines, Machine learning Project, and some Computer vision etc.**
 
-- 🌱 I’m currently learning **Advanced AI,ML**
+- 🌱 I’m currently learning **Generative AI**
 
 - 💬 Ask me about **Machine Learning related stuff**
 
 - 📫 How to reach me **perkinsberger@gmail.com**
 
-- ⚡ I love playing **Cricket, Volleyball & Carrom pool**
+- ⚡ I love playing **Cricket, Swimming & Carrom pool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
